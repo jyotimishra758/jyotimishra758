@@ -1,16 +1,16 @@
 👋 Hello, I’m Jyoti Mishra!
-🚀 Odoo Developer | Python Enthusiast
+🚀 Odoo Developer | Python & ERP Enthusiast
 🎓 BCS & MCS Graduate from IGNOU
-💻 Passionate about Odoo customization, module development, and automation
+💻 Passionate about building efficient ERP solutions and customizing Odoo modules.
 
 💡 Skills:
-🔹 Odoo Development: Custom Modules, ORM, API Integration, QWeb Reports
-🔹 Backend: Python, PostgreSQL, XML, JavaScript
-🔹 Frontend: HTML, CSS, JavaScript
-🔹 Tools & Frameworks: Odoo Framework, Git, GitHub
+🔹 Backend: Odoo Framework, Python, PostgreSQL
+🔹 Frontend: XML, JavaScript, jQuery, Bootstrap
+🔹 Odoo Modules: Sales, Purchase, Inventory, Accounting, HRMS
+🔹 Tools & Frameworks: Odoo ORM, API Integration, QWeb Reports, Git, GitHub
 
-🌱 Currently Exploring: Odoo Performance Optimization & Advanced API Integrations
-✨ What I’m Working On: Custom Odoo ERP solutions with automation & reporting
-📫 Let’s Connect! LinkedIn | GitHub
+🌱 Currently Learning: Advanced Odoo Customization, Performance Optimization
+✨ What I’m Working On: Custom Odoo ERP module for [your project domain]
+📫 Let’s Connect! [LinkedIn] | [GitHub]
 
-🌐 "Building smart Odoo solutions, one module at a time!" 🚀
+🌐 "Code is not just logic, it's the art of solving real-world problems!" 🚀
