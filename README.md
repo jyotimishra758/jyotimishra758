@@ -1,7 +1,10 @@
 👋 Hello, I’m Jyoti Mishra!
+
+
 🚀 Odoo Developer | Python & ERP Enthusiast
 🎓 BCS & MCS Graduate from IGNOU
 💻 Passionate about building efficient ERP solutions and customizing Odoo modules.
+
 
 💡 Skills:
 🔹 Backend: Odoo Framework, Python, PostgreSQL
