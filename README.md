@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hello, I’m Jyoti Mishra!
+🚀 Odoo Developer | Python Enthusiast
+🎓 BCS & MCS Graduate from IGNOU
+💻 Passionate about Odoo customization, module development, and automation
 
-<!--
-**jyotimishra758/jyotimishra758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Skills:
+🔹 Odoo Development: Custom Modules, ORM, API Integration, QWeb Reports
+🔹 Backend: Python, PostgreSQL, XML, JavaScript
+🔹 Frontend: HTML, CSS, JavaScript
+🔹 Tools & Frameworks: Odoo Framework, Git, GitHub
 
-Here are some ideas to get you started:
+🌱 Currently Exploring: Odoo Performance Optimization & Advanced API Integrations
+✨ What I’m Working On: Custom Odoo ERP solutions with automation & reporting
+📫 Let’s Connect! LinkedIn | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 "Building smart Odoo solutions, one module at a time!" 🚀
